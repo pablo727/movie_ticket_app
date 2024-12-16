@@ -18,8 +18,10 @@
 
 # First ask for age.
 age_prompt = "\nEnter your age. "
+
 # Then ask for their favorite movie.
 movie_prompt = "\nWhat's your favorite movie? "
+
 # A way to stop the loop.
 end_prompt = "\nEnter 'done' when you finish. "
 
